@@ -125,6 +125,7 @@ $duration: 250ms;
 /*-----product images------*/
 .featured-categories
 {
+	
 	margin: 50px 0;
 	
 }
@@ -235,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 .product-bottom h3
 {
 	font-size: 28px;
-	padding-bottom: 10px; 
+	
 }
 
 #masthead {
@@ -309,8 +310,8 @@ h1, h2, h3, h4, h5, h6 {
 	width: 2.7em;
 	height: 2em;
 	font-size: 1.7em;
-	text-align: center;
-	margin-left: 90px;
+	text-align: left;
+	margin-left: 40%;
 	background: #fff;
 	color: black;
 	
@@ -609,6 +610,7 @@ h1::after
 	color: #777;
 
 }
+
 
 .contact-form
 {
